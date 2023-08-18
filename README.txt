@@ -17,7 +17,7 @@ $ pip install pytube
 # 가상환경 연결
 $ conda activate --가상환경명
 # 실행
-$ streamlit run ./app.py
+$ streamlit run ./main.py
 
 ---------------------------------------------설정---------------------------------------------
 소스의 video 1-5까지의 비디오를 변경하고 싶을 시
